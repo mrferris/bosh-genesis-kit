@@ -1,3 +1,7 @@
+# Improvements
+
+- Added `minio-blobstore` feature -- see MANUAL.md for details
+
 # Bug Fixes
 
 - Fixes for rutime addon:
